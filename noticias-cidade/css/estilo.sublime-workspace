@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bl",
+				"black"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"A",
+				"a"
+			],
+			[
+				"L",
+				"li"
+			],
+			[
+				"U",
+				"ul"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"a",
+				"area-lateral"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"b",
+				"blueviolet"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"ty",
+				"style"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"sr",
+				"strong"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/a869243/Desktop/noticias-cidade",
+		"/C/Users/a869243/Desktop/noticias-cidade/css"
+	],
+	"file_history":
+	[
+		"/C/Users/a869243/Desktop/noticias-cidade/index.html",
+		"/C/Users/a869243/Desktop/noticias-cidade/css/estilo.css",
+		"/C/Users/a869243/Desktop/noticias-cidade/index.sublime-workspace",
+		"/C/Users/a869243/Desktop/css avançado/seletores.html",
+		"/C/Users/a869243/Desktop/css avançado/css/estilo.css",
+		"/C/Users/a869243/Desktop/css avançado",
+		"/C/Users/a869243/Desktop/Tecblog/index.html",
+		"/C/Users/a869243/Desktop/Tecblog/css/estilo.css",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/posicionamentos.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/sobrepondo.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/links.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/elementos-flutuantes.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/elementos-flutuantes-pratica.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/estilo.css",
+		"/C/Users/a869243/Desktop/projetoCSS3intermediario",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/biografia.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/estilo.css",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/campanhas.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/contato.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/index.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/bordas.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/classes_ids.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/imagem",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/inline_style.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/index.html",
+		"/C/Users/a869243/Desktop/Projeto final.html/quem-somos.html",
+		"/C/Users/a869243/Desktop/Projeto final.html/contato.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/contato.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/projeto.html",
+		"/C/Users/a869243/Desktop/projeto Aula/index.html",
+		"/C/Users/a869243/Desktop/projeto Aula/CSS/estilo.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

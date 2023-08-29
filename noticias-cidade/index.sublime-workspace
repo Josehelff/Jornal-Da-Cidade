@@ -1,0 +1,561 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"adi",
+				"aside"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"rea",
+				"repeat-x"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"txt",
+				"text-decoration"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"A",
+				"a"
+			],
+			[
+				"L",
+				"li"
+			],
+			[
+				"U",
+				"ul"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"b",
+				"blueviolet"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"ty",
+				"style"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"sr",
+				"strong"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/a869243/Desktop/bootstrap4/index.html",
+			"settings":
+			{
+				"buffer_size": 1227,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAxwQAAAAAAAAAAAAA",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwAAAAAAAAAHAAAAAAAAAACAAAAZW4",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABwAAAAAAAAAHgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "pt-br"
+					},
+					"BQAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/a869243/Desktop/bootstrap4"
+	],
+	"file_history":
+	[
+		"/C/Users/a869243/Desktop/Museu Nacional/index.html",
+		"/C/Users/a869243/Desktop/Museu Nacional/css/estilo.css",
+		"/C/Users/a869243/Desktop/Museu Nacional/css/normalize.css",
+		"/C/Users/a869243/Desktop/chale-hotel/index.html",
+		"/C/Users/a869243/Desktop/chale-hotel/css/estilo.css",
+		"/C/Users/a869243/Desktop/noticias-cidade/nova-legislacao.html",
+		"/C/Users/a869243/Desktop/noticias-cidade/index.html",
+		"/C/Users/a869243/Desktop/noticias-cidade/css/estilo.css",
+		"/C/Users/a869243/Desktop/noticias-cidade/index.sublime-project",
+		"/C/Users/a869243/Desktop/noticias-cidade/index.sublime-workspace",
+		"/C/Users/a869243/Desktop/css avançado/seletores.html",
+		"/C/Users/a869243/Desktop/css avançado/css/estilo.css",
+		"/C/Users/a869243/Desktop/css avançado",
+		"/C/Users/a869243/Desktop/Tecblog/index.html",
+		"/C/Users/a869243/Desktop/Tecblog/css/estilo.css",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/posicionamentos.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/sobrepondo.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/links.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/elementos-flutuantes.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/elementos-flutuantes-pratica.html",
+		"/C/Users/a869243/Desktop/projetoCSS3-intermediari/estilo.css",
+		"/C/Users/a869243/Desktop/projetoCSS3intermediario",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/biografia.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/estilo.css",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/campanhas.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/contato.html",
+		"/C/Users/a869243/Desktop/projeto1CSS_files/index.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/bordas.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/classes_ids.html",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/imagem",
+		"/C/Users/a869243/Desktop/ProjetoCSS3/inline_style.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/index.html",
+		"/C/Users/a869243/Desktop/Projeto final.html/quem-somos.html",
+		"/C/Users/a869243/Desktop/Projeto final.html/contato.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/contato.html",
+		"/C/Users/a869243/Desktop/Primeiro projeto/projeto.html",
+		"/C/Users/a869243/Desktop/projeto Aula/index.html",
+		"/C/Users/a869243/Desktop/projeto Aula/CSS/estilo.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/a869243/Desktop/bootstrap4/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1227,
+								1227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
